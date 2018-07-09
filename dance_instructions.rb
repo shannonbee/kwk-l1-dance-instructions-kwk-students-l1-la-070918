@@ -11,9 +11,11 @@ def skip_step
   puts"Bounce left foot back up slightly, kicking it a few inches back"
   puts"Left, Right, Left and Left"
 end
+
 def skip_step_right
   puts"Lower right foot to the ground"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts"Right, Left, Right and Right"
 end
 def bobthereins 
+  puts""
