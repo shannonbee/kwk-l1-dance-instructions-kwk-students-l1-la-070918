@@ -18,4 +18,5 @@ def skip_step_right
   puts"Right, Left, Right and Right"
 end
 def bobthereins 
-  puts""
+  puts"Holding your arms out in front of you, straight and at chest level"
+  
